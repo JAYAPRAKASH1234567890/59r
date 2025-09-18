@@ -1,0 +1,106 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.div1,.div2,.div3{
+    background-color: black;
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+    height: 30px;
+    align-items: center;
+    height: fit-content;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 20px 0px;
+
+}
+.item{
+    margin: 5px 0px;
+   color: white;
+}
+.item-1, .item-2,.item-3,.item-4,.item-5{
+    display: flex;
+    
+}
+p{
+padding-top: 5px;
+font-size: medium;
+color: darkgray;
+}
+.ha{
+    margin-left: 2px ;
+}
+.hai{
+    margin-top: 5px;
+}
+.hai .bi-mic,.hai .bi-camera-video-off,.bi-pause-fill,.bi-person-video,.bi-pencil,.bi-mouse,.bi-back,.bi-three-dots{
+   padding-left:8px;
+   font-size: x-large;   
+}
+.bye{
+    padding-top:12px;
+    padding-left: 2px;
+    font-size: small;
+}
+
+.hai .bi-people{ 
+    padding-left: 23px;
+    font-size: x-large;
+}
+.hai .bi-chat,.hai .bi-arrow-up-square-fill{
+    padding-left: 4px;
+    font-size: x-large;
+}
+.item-5  .bi-arrow-up-square-fill{
+    color: green;
+}
+.bi-mouse,.bi-back{
+    padding-left:35px;
+}
+.bi-pencil{
+    padding-left: 20px;
+}
+.bi-mic:hover,.bi-camera-video-off:hover{
+    color: red;
+
+}
+.bi-chevron-down:hover{
+    color:aquamarine;
+}
+.itema{
+    margin: 6px 0px;
+   color: white;
+    font-size: x-large;
+}
+.itm-1{
+    background-color: blue;
+    padding:5px;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+.itm-8{
+    color: red;
+}
+.itm-16{
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 3px;
+}
+.itm-6,.itm-3,.itm-5{
+    font-size: xx-large;
+
+}
+.itm-13{
+    color: grey;
+}
+.items{
+    margin: 5px 0px;
+   color: white;
+    font-size: x-large;
+}
+
+
+
